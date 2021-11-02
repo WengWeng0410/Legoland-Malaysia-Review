@@ -37,7 +37,7 @@ In this stage, the reviews are clean by considering the following;
 
 ## EDA
 
-#### Reviews Topics Distribution
+#### Reviews Topics Distribution 
 ![](/images/Topic Distribution.png)
 
 #### Keywords for Each Topic
