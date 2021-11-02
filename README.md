@@ -74,3 +74,9 @@ For topic 4, it mainly covers the reviews on kids/children experiences with lego
 **Topic 5: Kids Experience with Legoland**
 
 For topic 5, the visitors shared their experiences on the rides and attraction on Legoland Malaysia. 
+
+Generally, the reviews are positive, satisfied with the services provided, rides and attractions in the parks. Poor comments on staff attitude/services and the maintenace of the parks are minimal. However, Legoland Malaysia may look into continuous training program to the staff and a proper maintenance schdule on the rides. Besides, deals to improve the visitation of visitors from Singapore or other states can be considered to compromise the travelling time to Legoland Malaysia. But not to forget the visitors origin from Johor! 
+<br>
+Other than that, Food choices provided in the parks can be improved by introducing more choices at a lower price. Many of the visitors commented that the food is overprived. Other than that, allowing outside food for kids with ages < 3 - 4 can be considered as the food provided in the park is not suitable for kids with ages < 3 - 4. <br>
+
+
