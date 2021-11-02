@@ -17,7 +17,7 @@ Works done as follows
 ## Code and Resources Used
 
 **Python Version:** 3.7 <br>
-**Packages:** numpy, pandas, seaborn, matplotlib <br>
+**Packages:** numpy, pandas, seaborn, matplotlib, nltk, SentimentIntensityAnalyzer, gensim <br>
 **IDE:** Jupyter Notebook <br>
 **Dashboard Software:** Google Data Studio <br>
 **Dataset:** from [Tripadvisor](https://www.tripadvisor.com.my/Attraction_Review-g298278-d3491018-Reviews-Legoland_Malaysia-Johor_Bahru_Johor_Bahru_District_Johor.html) <br>
