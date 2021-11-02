@@ -41,13 +41,13 @@ In this stage, the reviews are clean by considering the following;
 ![](/images/Topic_Distribution.png)
 
 #### Keywords for Each Topic
-![](/images/1-1 Keywords for Each Topic.png)
+![](/images/KeywordsforEachTopic.png)
 
 #### Topics Distribution Based On Ratings
-![](/images/2. Topic Distribution Based On Ratings.png)
+![](/images/TopicDistributionBasedOnRatings.png)
 
 #### Topics Distribution Based On Sentiments
-![](/images/3. Topic Distribution Based On Sentiments.png)
+![](/images/TopicDistributionBasedOnSentiments.png)
 
 <br> Based on the findings, it can be seen that the reviews are with high ratings (3 to 5). Reviews with low ratings (1-2) are minimal. Besides, the reviews are with very high positive sentiments as compared with neutral and negative sentimens.  <br>
 
