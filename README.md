@@ -35,3 +35,26 @@ In this stage, the reviews are clean by considering the following;
 * remove stopwords
 * N-gram (Bigram/Trigram) is also used to identify words that often show up together
 
+## Model Building and Discussion
+
+Topic modeling is used to identify the topics commented by the visitors. The model used is Latent Dirichlet Allocation (LDA). The model is finally group the reviews into 5 topics as follows:
+
+**Topic 1: Park (Theme/Water Parks)**
+
+As for topic 1, it covers the recommendation on the visitation to Legoland Malaysia as well as summary of the visitors' experiences with legoland Malaysia. The reviews range from the overview, condition of the parks, hospitality/services provided by the staff, suggestion on planning on the visitation and food. 
+
+**Topic 2: Park Rides**
+
+As for topic 2, it covers the experiences of the visitors on the rides in the park, water park, sea life as well as other attractions located in the legoland.
+
+**Topic 3: Transporation to Legoland**
+
+As for topic 3, the reviews covers mainly on the travelling mode to Legoland Malaysia. 
+
+**Topic 4: Recommendation on Leogland to Kids**
+
+For topic 4, it mainly covers the reviews on kids/children experiences with legoland Malaysia as well as the family and age group that suitable to Legoland Malaysia. Food choices and prices are also discussed. 
+
+**Topic 5: Kids Experience with Legoland**
+
+For topic 5, the visitors shared their experiences on the rides and attraction on Legoland Malaysia. 
