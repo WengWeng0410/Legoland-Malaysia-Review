@@ -35,6 +35,21 @@ In this stage, the reviews are clean by considering the following;
 * remove stopwords
 * N-gram (Bigram/Trigram) is also used to identify words that often show up together
 
+## EDA
+
+#### Reviews Topics Distribution
+![](/images/HRC_Corr.png)
+
+#### Keywords for Each Topic
+![](/images/HRC_Corr.png)
+
+#### Topics Distribution Based On Ratings
+![](/images/HRC_Corr.png)
+
+#### Topics Distribution Based On Sentiments
+![](/images/HRC_Corr.png)
+
+
 ## Model Building and Discussion
 
 Topic modeling is used to identify the topics commented by the visitors. The model used is Latent Dirichlet Allocation (LDA). The model is finally group the reviews into 5 topics as follows:
